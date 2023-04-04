@@ -1,0 +1,5 @@
+1. first of all should display the correct product(after searching in the search box) 
+2. After clicking on the picture, go to the correct product page
+ 3. During the search, it should be displayed quick
+4. Text and pictures should be the same
+5. if inserted part of the word is, it should display the correct result.
